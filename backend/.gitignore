@@ -1,0 +1,19 @@
+# === Python / Django ===
+backend/venv/
+*.pyc
+__pycache__/
+db.sqlite3
+*.sqlite3
+
+# === Node / React / Frontend ===
+frontend-tally-dashboard/node_modules/
+frontend-tally-dashboard/.env
+dist/
+build/
+
+# === Editor and OS Files ===
+.vscode/
+.idea/
+.DS_Store
+*.log
+*.swp
