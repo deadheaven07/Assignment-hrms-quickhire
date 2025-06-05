@@ -1,4 +1,4 @@
-# Assignment-hrms-quickhire
+# Assignment-hrms-sniperthink
 
 A full-stack HRMS assignment project with Django (PostgreSQL) backend and Vite + React frontend. Backend is connected to AWS RDS PostgreSQL and deployed on an EC2 instance.
 
